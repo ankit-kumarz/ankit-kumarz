@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit1068" alt="ankit1068" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Currently I’m learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankit-kumar-33603b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/ankit-kumar-33603b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
