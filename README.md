@@ -25,10 +25,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit1068&show_icons=true&locale=en" alt="ankit1068" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit1068&" alt="ankit1068" /></p>.
-
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
