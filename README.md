@@ -2,13 +2,12 @@
 <h3 align="center">🚀 A Passionate Software Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit1068&label=Profile%20views&color=0e75b6&style=flat" alt="ankit1068" />
+  <img src="https://komarev.com/ghpvc/?username=ankit-kumarz&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumarz" />
 </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;DevOps+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
-
 
 ---
 
@@ -16,7 +15,7 @@
 - 🌱 Currently I’m learning **DevOps**
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/ankit-kumar-33603b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 How to reach me: **ankitrajj1068@gmail.com**
-- 🖥️ My Portfolio: [Ankit's Portfolio](https://ankit1068.github.io/Ankit-s-Portfolio/)
+- 🖥️ My Portfolio: [Ankit's Portfolio](https://ankit-kumarz.github.io/Ankit-s-Portfolio/)
 - ⚡ Fun fact: **I'm funny 😊**
 
 ---
@@ -48,18 +47,17 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankit1068&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ankit1068 trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ankit-kumarz&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ankit-kumarz trophies"/>
   </a>
 </p>
-
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ankit1068&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <img width="47%" src="https://streak-stats.demolab.com/?user=ankit1068&count_private=true&theme=react&border_radius=10"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1068&hide=html&layout=compact&theme=react&border_radius=10"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ankit-kumarz&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width="47%" src="https://streak-stats.demolab.com/?user=ankit-kumarz&count_private=true&theme=react&border_radius=10"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumarz&hide=html&layout=compact&theme=react&border_radius=10"/>
 </div>
 
 ---
@@ -84,4 +82,3 @@
 <div align="center">
   <h3>Thanks for visiting my profile! ⭐</h3>
 </div>
-
