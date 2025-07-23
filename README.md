@@ -80,7 +80,9 @@
    <a href="https://leetcode.com/AnkitXLeet11/">
      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="leetcode badge" height="200" width="200"/>
    </a>
-
+<a href="https://leetcode.com/AnkitXLeet11/">
+  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="leetcode badge" height="200" width="200"/>
+</a>
 </div>
 
 ---
