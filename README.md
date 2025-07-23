@@ -90,9 +90,9 @@
 #### 🏅 My HackerRank Badges
 <div align="center">
   <a href="https://www.hackerrank.com/profile/22BCON1068" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg" alt="Problem Solving" height="130" />
-    <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="C++" height="130" />
-    <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" alt="Python" height="130" />
+    <img src="https://img.shields.io/badge/Problem%20Solving-5%E2%AD%90-black?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-5%E2%AD%90-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-5%E2%AD%90-yellow?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </div>
 
@@ -111,6 +111,7 @@
     <img src="https://img.shields.io/badge/CSS%20(Basic)-Verified-brightgreen?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
 </div>
+
 
 
 ### 🎯 Fun Quote😊
