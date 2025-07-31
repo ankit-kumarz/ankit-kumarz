@@ -74,6 +74,9 @@
   <a href="https://leetcode.com/AnkitXLeet11/">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="leetcode badge" height="200" width="200"/>
   </a>
+<a href="https://leetcode.com/AnkitXLeet11/">
+   <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="leetcode badge" height="200" width="200"/>
+</a>
   <a href="https://leetcode.com/AnkitXLeet11/">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="leetcode badge" height="200" width="200"/>
   </a>
