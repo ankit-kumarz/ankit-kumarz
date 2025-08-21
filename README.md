@@ -12,9 +12,7 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently I’m learning **DevOps** I am currently working on BlueMind AI, an advanced AI-powered platform that integrates multiple intelligent tools into a single ecosystem. It features text-to-image generation, resume parsing, real-time community chat, document summarization, sentiment analysis, language translation, speech-to-text, text-to-speech, OCR-based image-to-text, and personalized recommendations.
-
-The goal of BlueMind AI is to create a unified productivity hub where users can interact naturally through text, voice, and images while accessing powerful AI-driven insights and automation. Future developments include mobile app integration and user personalization, making it accessible anytime, anywhere.
+- 🌱 Currently I’m learning **MLOps** 
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/ankit-kumar-33603b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 How to reach me: **ankitrajj1068@gmail.com**
 - 🖥️ My Portfolio: [Ankit's Portfolio](https://ankit-kumarz.github.io/Ankit-s-Portfolio/)
