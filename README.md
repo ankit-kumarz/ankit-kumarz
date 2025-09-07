@@ -29,7 +29,7 @@
   <a href="https://leetcode.com/u/AnkitXLeet11/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
----
+--- 
 
 ### 🛠️ Languages and Tools
 <p align="left">
