@@ -135,7 +135,7 @@
 
 #### 📜 My HackerRank Certifications
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/22BCON1068" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ankitkumarz" target="_blank">
     <img src="https://img.shields.io/badge/Software%20Engineer-Verified-blue?style=for-the-badge&logo=hackerrank&logoColor=white" />
     <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-Verified-blue?style=for-the-badge&logo=hackerrank&logoColor=white" />
     <img src="https://img.shields.io/badge/Python%20(Basic)-Verified-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
