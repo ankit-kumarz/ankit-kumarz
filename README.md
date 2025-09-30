@@ -104,7 +104,7 @@
   </a>
 
   <a href="https://leetcode.com/AnkitXLeet11/">
-    <img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" alt="leetcode badge" height="200" width="200"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="leetcode badge" height="200" width="200"/>
   </a>
   
 <a href="https://leetcode.com/AnkitXLeet11/">
