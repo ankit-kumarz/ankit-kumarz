@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
+![202509](https://github.com/user-attachments/assets/50d90918-735c-4241-8347-84e314826fe6)<h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">🚀 A Passionate Software Developer from India 🚀</h3>
  
 <p align="center">
@@ -110,6 +110,11 @@
 <a href="https://leetcode.com/AnkitXLeet11/">
    <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="leetcode badge" height="200" width="200"/>
 </a>
+
+<a href="https://leetcode.com/AnkitXLeet11/">
+   <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="leetcode badge" height="200" width="200"/>
+</a>
+
    <a href="https://leetcode.com/AnkitXLeet11/">
      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="leetcode badge" height="200" width="200"/>
    </a>
