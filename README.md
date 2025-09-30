@@ -1,4 +1,4 @@
-![202509](https://github.com/user-attachments/assets/50d90918-735c-4241-8347-84e314826fe6)<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">🚀 A Passionate Software Developer from India 🚀</h3>
  
 <p align="center">
