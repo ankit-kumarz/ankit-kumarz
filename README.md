@@ -104,7 +104,8 @@
   </a>
 
   <a href="https://leetcode.com/AnkitXLeet11/">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="leetcode badge" height="200" width="200"/>
+    <img src="![68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032342f6769662f323032342d30322e676966](https://github.com/user-attachments/assets/2b79f212-e762-430f-874b-36af02533996)
+" alt="leetcode badge" height="200" width="200"/>
   </a>
   
 <a href="https://leetcode.com/AnkitXLeet11/">
