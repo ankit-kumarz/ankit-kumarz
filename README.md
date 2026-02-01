@@ -84,15 +84,14 @@
  
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumarz&show_icons=true&theme=react&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit-kumarz&show_icons=true&theme=react&rank_icon=github&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankit-kumarz&theme=react&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=ankit-kumarz&theme=react&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumarz&layout=compact&theme=react&hide_border=true" width="48%" />
-
-</div>
 
 ---
 
