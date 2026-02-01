@@ -87,7 +87,10 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ankit-kumarz&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <img width="47%" src="https://streak-stats.demolab.com/?user=ankit-kumarz&count_private=true&theme=react&border_radius=10"/>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumarz&hide=html&layout=compact&theme=react&border_radius=10"/>
+ 
 </div>
+
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-kumarz)](https://github.com/ankit-kumarz/github-readme-stats)
 
 ---
 
