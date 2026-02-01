@@ -82,15 +82,17 @@
 
 ---
  
-### 📈 GitHub Stats
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ankit-kumarz&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <img width="47%" src="https://streak-stats.demolab.com/?user=ankit-kumarz&count_private=true&theme=react&border_radius=10"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumarz&hide=html&layout=compact&theme=react&border_radius=10"/>
- 
-</div>
+## 📊 GitHub Stats
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-kumarz)](https://github.com/ankit-kumarz/github-readme-stats)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankit-kumarz&show_icons=true&theme=react&rank_icon=github&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=ankit-kumarz&theme=react&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumarz&layout=compact&theme=react&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
