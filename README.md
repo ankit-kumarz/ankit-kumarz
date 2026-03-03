@@ -102,7 +102,7 @@
    </a>
   
    <a href="https://leetcode.com/AnkitXLeet11/">
-    <img src=" https://assets.leetcode.com/static_assets/others/50.gif" alt="leetcode badge" height="200" width="200"/>
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="leetcode badge" height="200" width="200"/>
    </a>
  
   <a href="https://leetcode.com/AnkitXLeet11/">
