@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 - 🌱 Currently I’m learning **MLOps** 
-- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/ankit-kumar-33603b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/ankit-kumar-33603b250?)
 - 📫 How to reach me: **ankitrajj1068@gmail.com**
 - 🖥️ My Portfolio: [Ankit's Portfolio](https://ankit-kumarz.github.io/ankit.tech)
 - ⚡ Fun fact: **I love experimenting with LangChain-powered LLMs to build smart agents.**
