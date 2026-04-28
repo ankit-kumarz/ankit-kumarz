@@ -3,7 +3,7 @@
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit-kumarz&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumarz" />
-</p>
+</p> 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;MLOps+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
