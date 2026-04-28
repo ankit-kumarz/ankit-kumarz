@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;MLOps+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
----
+---  
 
 ### 🌟 About Me
 - 🌱 Currently I’m learning **MLOps** 
