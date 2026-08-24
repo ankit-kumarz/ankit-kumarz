@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <img alt="ankit-kumarz's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
