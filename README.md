@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">🚀 A Passionate Software Developer from India 🚀</h3>
+<h3 align="center">🚀 An AI Engineer from India 🚀</h3>
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit-kumarz&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumarz" />
@@ -20,7 +20,7 @@
 ---   
 
 ### 🌟 About Me
-- 🌱 Currently I’m learning **MLOps** 
+- 🌱 Currently working as an AI Engineer in a **Healthcare** Tech Company.
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/ankit-kumar-33603b250?)
 - 📫 How to reach me: **ankitrajj1068@gmail.com**
 - 🖥️ My Portfolio: [Ankit's Portfolio](https://ankit-kumarz.github.io/ankit.tech)
